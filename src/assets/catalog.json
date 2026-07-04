@@ -1,0 +1,32 @@
+[
+  { "id": "home", "layerId": "buildings", "name": "Дом", "sprite": "sprites/buildings/home.png", "defaultScaleX": 2, "defaultScaleY": 2 },
+  { "id": "wall", "layerId": "buildings", "name": "Стена", "sprite": "sprites/buildings/wall.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "door", "layerId": "buildings", "name": "Дверь", "sprite": "sprites/buildings/door.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "window", "layerId": "buildings", "name": "Окно", "sprite": "sprites/buildings/window.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "window-small", "layerId": "buildings", "name": "Маленькое окно", "sprite": "sprites/buildings/window-small.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+
+  { "id": "fruit-tree", "layerId": "plants", "name": "Фруктовое дерево", "sprite": "sprites/plants/fruit-tree.png", "defaultScaleX": 2, "defaultScaleY": 2 },
+  { "id": "conifer", "layerId": "plants", "name": "Хвойное дерево", "sprite": "sprites/plants/conifer.png", "defaultScaleX": 2, "defaultScaleY": 2 },
+  { "id": "ornamental-shurb", "layerId": "plants", "name": "Декоративный куст", "sprite": "sprites/plants/ornamental-shurb.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "fruit-shurb", "layerId": "plants", "name": "Ягодный куст", "sprite": "sprites/plants/fruit-shurb.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "rose", "layerId": "plants", "name": "Роза", "sprite": "sprites/plants/rose.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "vine", "layerId": "plants", "name": "Лоза", "sprite": "sprites/plants/vine.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "perennial-flower", "layerId": "plants", "name": "Многолетний цветок", "sprite": "sprites/plants/perennial-flower.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "bulbous", "layerId": "plants", "name": "Луковичное", "sprite": "sprites/plants/bulbous.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "grass", "layerId": "plants", "name": "Трава", "sprite": "sprites/plants/grass.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "ground-cover", "layerId": "plants", "name": "Почвопокровное", "sprite": "sprites/plants/ground-cover.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+
+  { "id": "toilet", "layerId": "plumbing", "name": "Унитаз", "sprite": "sprites/plumbing/toilet.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "hydraulic-tank", "layerId": "plumbing", "name": "Гидробак", "sprite": "sprites/plumbing/hydraulic-tank.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+
+  { "id": "fridge", "layerId": "appliance", "name": "Холодильник", "sprite": "sprites/appliance/fridge.png", "defaultScaleX": 1, "defaultScaleY": 2 },
+  { "id": "middle-fridge", "layerId": "appliance", "name": "Средний холодильник", "sprite": "sprites/appliance/middle-fridge.png", "defaultScaleX": 2, "defaultScaleY": 2 },
+  { "id": "small-fridge", "layerId": "appliance", "name": "Малый холодильник", "sprite": "sprites/appliance/small-fridge.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "dishwasher", "layerId": "appliance", "name": "Посудомоечная машина", "sprite": "sprites/appliance/dishwasher.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "washer", "layerId": "appliance", "name": "Стиральная машина", "sprite": "sprites/appliance/washer.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "coffee", "layerId": "appliance", "name": "Кофемашина", "sprite": "sprites/appliance/coffee.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "toaster", "layerId": "appliance", "name": "Тостер", "sprite": "sprites/appliance/toaster.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "bread-maker", "layerId": "appliance", "name": "Хлебопечка", "sprite": "sprites/appliance/bread-maker.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "3d-printer", "layerId": "appliance", "name": "3D-принтер", "sprite": "sprites/appliance/3d-printer.png", "defaultScaleX": 1, "defaultScaleY": 1 },
+  { "id": "mixer", "layerId": "appliance", "name": "Миксер", "sprite": "sprites/appliance/mixer.png", "defaultScaleX": 1, "defaultScaleY": 1 }
+]
